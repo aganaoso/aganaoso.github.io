@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aganaoso.github.io/Duo/sitemap_index.txt
+Sitemap: https://aganaoso.github.io/MZv/sitemap_index.txt
+Sitemap: https://aganaoso.github.io/WqR/sitemap_index.txt
+Sitemap: https://aganaoso.github.io/tJo/sitemap_index.txt
